@@ -4,7 +4,7 @@
   <title><![CDATA[AtomAttack Blog]]></title>
   <link href="http://hokiradji.github.io/atom.xml" rel="self"/>
   <link href="http://hokiradji.github.io/"/>
-  <updated>2021-12-05T21:32:03+03:00</updated>
+  <updated>2021-12-05T21:33:55+03:00</updated>
   <id>http://hokiradji.github.io/</id>
   <author>
     <name><![CDATA[Hokiradji]]></name>
@@ -12,15 +12,6 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
-  
-  <entry>
-    <title type="html"><![CDATA[Тест]]></title>
-    <link href="http://hokiradji.github.io/blog/2021/12/05/tiest/"/>
-    <updated>2021-12-05T20:19:52+03:00</updated>
-    <id>http://hokiradji.github.io/blog/2021/12/05/tiest</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
   
   <entry>
     <title type="html"><![CDATA[Стартуем]]></title>
@@ -31,7 +22,7 @@
 
 <blockquote><p><strong>В этом блоге мы будем публиковать краткие конспекты, и небольшие туториалы. А так же интересные факты. Здесь будет не только физика и математика, но еще и IT</strong></p>
 
-<blockquote><p><strong><em>Если не хотите потерять эту страничку, добавьте её в закладки</em></strong>😜</p></blockquote></blockquote>
+<blockquote><p><strong>Если не хотите потерять эту страничку, добавьте её в закладки</strong>😜</p></blockquote></blockquote>
 ]]></content>
   </entry>
   
