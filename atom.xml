@@ -4,7 +4,7 @@
   <title><![CDATA[AtomAttack Blog]]></title>
   <link href="http://hokiradji.github.io/atom.xml" rel="self"/>
   <link href="http://hokiradji.github.io/"/>
-  <updated>2021-12-05T20:12:19+03:00</updated>
+  <updated>2021-12-05T21:32:03+03:00</updated>
   <id>http://hokiradji.github.io/</id>
   <author>
     <name><![CDATA[Hokiradji]]></name>
@@ -14,15 +14,24 @@
 
   
   <entry>
+    <title type="html"><![CDATA[Тест]]></title>
+    <link href="http://hokiradji.github.io/blog/2021/12/05/tiest/"/>
+    <updated>2021-12-05T20:19:52+03:00</updated>
+    <id>http://hokiradji.github.io/blog/2021/12/05/tiest</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Стартуем]]></title>
     <link href="http://hokiradji.github.io/blog/2021/12/05/startuiem/"/>
     <updated>2021-12-05T19:24:12+03:00</updated>
     <id>http://hokiradji.github.io/blog/2021/12/05/startuiem</id>
     <content type="html"><![CDATA[<h1>Приветствую вас на блоге канала AtomAttack</h1>
 
-<h3><a href="https://www.youtube.com/channel/UCpNs2n8XbVRtm0PuTpD8thQ">Канал</a></h3>
+<blockquote><p><strong>В этом блоге мы будем публиковать краткие конспекты, и небольшие туториалы. А так же интересные факты. Здесь будет не только физика и математика, но еще и IT</strong></p>
 
-<blockquote><p><strong>В этом блоге мы будем публиковать краткие конспекты, и небольшие туториалы. А так же интересные факты. Здесь будет не только физика и математика, но еще и IT</strong></p></blockquote>
+<blockquote><p><strong><em>Если не хотите потерять эту страничку, добавьте её в закладки</em></strong>😜</p></blockquote></blockquote>
 ]]></content>
   </entry>
   
