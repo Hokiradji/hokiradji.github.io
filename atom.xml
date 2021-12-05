@@ -4,7 +4,7 @@
   <title><![CDATA[AtomAttack Blog]]></title>
   <link href="http://hokiradji.github.io/atom.xml" rel="self"/>
   <link href="http://hokiradji.github.io/"/>
-  <updated>2021-12-05T20:03:59+03:00</updated>
+  <updated>2021-12-05T20:12:19+03:00</updated>
   <id>http://hokiradji.github.io/</id>
   <author>
     <name><![CDATA[Hokiradji]]></name>
@@ -22,7 +22,7 @@
 
 <h3><a href="https://www.youtube.com/channel/UCpNs2n8XbVRtm0PuTpD8thQ">Канал</a></h3>
 
-<p>  <strong>В этом блоге мы будем публиковать краткие конспекты, и небольшие туториалы. А так же интересные факты. Здесь будет не только физика и математика, но еще и IT</strong></p>
+<blockquote><p><strong>В этом блоге мы будем публиковать краткие конспекты, и небольшие туториалы. А так же интересные факты. Здесь будет не только физика и математика, но еще и IT</strong></p></blockquote>
 ]]></content>
   </entry>
   
