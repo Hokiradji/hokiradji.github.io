@@ -4,7 +4,7 @@
   <title><![CDATA[AtomAttack Blog]]></title>
   <link href="http://hokiradji.github.io/atom.xml" rel="self"/>
   <link href="http://hokiradji.github.io/"/>
-  <updated>2021-12-05T21:48:26+03:00</updated>
+  <updated>2021-12-06T00:14:01+03:00</updated>
   <id>http://hokiradji.github.io/</id>
   <author>
     <name><![CDATA[Hokiradji]]></name>
@@ -12,6 +12,17 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[НАЗВАНИЕ]]></title>
+    <link href="http://hokiradji.github.io/blog/2021/12/06/nazvaniie/"/>
+    <updated>2021-12-06T00:10:00+03:00</updated>
+    <id>http://hokiradji.github.io/blog/2021/12/06/nazvaniie</id>
+    <content type="html"><![CDATA[<h1>что-нибудь</h1>
+
+<blockquote><p><strong>Две звездочки</strong></p></blockquote>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Стартуем]]></title>
